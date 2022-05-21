@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Artur
-![](https://lh3.googleusercontent.com/pw/AM-JKLVDl-56LcbAVXGfWtVyTzLku0t0YD9tkaWcG1vtw5hlRugH_RzhRZlBEONap-DtcvXpAb5lf8cAyRerGBegSZAePCt54ECqPXnPrfPDwRWwJ6cv8empHtuRQHHBeRC0alftOz3a6ImRxsjx6x7GnR9YTg=w700-h200-no?authuser=0)
+![](https://raw.githubusercontent.com/oldsku11/oldsku11/main/skulls.png)
 
 Test automation expert with 10+ years experience in highly loaded commercial projects around the world.
 
