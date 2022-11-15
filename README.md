@@ -3,12 +3,11 @@
 
 Test automation expert with 10+ years experience in highly loaded commercial projects around the world.
 
-- 🔭 I’m currently working on Chainlink Labs 
+- 🔭 I’m currently working on 1inch Network
 - 🌱 I’m currently learning solidity and golang 
 - 👯 I’m looking to collaborate on DAO creation 
 - 📫 How to reach me: telegram @oldsku11 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: i'm russian 
+- 😄 Pronouns: he/him
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oldsku11)](https://github.com/anuraghazra/github-readme-stats)
