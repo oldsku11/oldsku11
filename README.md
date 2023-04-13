@@ -3,7 +3,6 @@
 
 Test automation expert with 10+ years experience in highly loaded commercial projects around the world.
 
-- 🔭 I’m currently working on 1inch Network
 - 🌱 I’m currently learning solidity and golang 
 - 👯 I’m looking to collaborate on DAO creation 
 - 📫 How to reach me: telegram @oldsku11 
