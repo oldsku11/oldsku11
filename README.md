@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Artur
+### QA champ is here! 🏋️‍♀️
 ![](https://raw.githubusercontent.com/oldsku11/oldsku11/main/skulls.png)
 
 Test automation expert with 10+ years experience in highly loaded commercial projects around the world.
@@ -6,7 +6,6 @@ Test automation expert with 10+ years experience in highly loaded commercial pro
 - 🌱 I’m currently learning solidity and golang 
 - 👯 I’m looking to collaborate on DAO creation 
 - 📫 How to reach me: telegram @oldsku11 
-- 😄 Pronouns: he/him
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oldsku11)](https://github.com/anuraghazra/github-readme-stats)
