@@ -1,11 +1,10 @@
 ### QA champ is here! 🏋️‍♀️
 ![](https://raw.githubusercontent.com/oldsku11/oldsku11/main/skulls.png)
 
-Test automation expert with 10+ years experience in highly loaded commercial projects around the world.
-
-- 🌱 I’m currently learning solidity and golang 
-- 👯 I’m looking to collaborate on DAO creation 
-- 📫 How to reach me: telegram @oldsku11 
+- 🌱 QA Expert with Over a Decade of Proven Work History.
+- ⛓️ Passionate about Blockchain Technology
+- 👨‍💻 Driving Quality Assurance in Decentralized Ecosystems
+- 📫 How to reach me: oldsku11.t.me 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oldsku11)](https://github.com/anuraghazra/github-readme-stats)
