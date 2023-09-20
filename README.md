@@ -10,7 +10,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oldsku11)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oldsku11&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=oldsku11)  
-
-![Profile views](https://gpvc.arturio.dev/oldsku11)  
